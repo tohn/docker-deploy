@@ -1,2 +1,12 @@
-# docker_markdownlint-cli
-This will provide a minimal docker container (based on node:alpine) with markdownlint-cli installed
+# hub.docker.com
+
+This repo contains some branches with their own Dockerfile (based on
+alpine) for <https://hub.docker.com>.
+
+## markdownlint-cli
+
+[markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) based on `node:alpine`
+
+## hugo
+
+[hugo](https://gohugo.io/) based on `alpine` (<https://pkgs.alpinelinux.org/package/edge/community/x86_64/hugo>)
