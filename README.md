@@ -10,3 +10,7 @@ alpine) for <https://hub.docker.com>.
 ## hugo
 
 [hugo](https://gohugo.io/) based on `alpine` (<https://pkgs.alpinelinux.org/package/edge/community/x86_64/hugo>)
+
+## deploy
+
+Install rsync and openssh-client to deploy stuff
