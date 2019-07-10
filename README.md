@@ -1,6 +1,6 @@
 # hub.docker.com
 
-This repo contains some branches with their own Dockerfile (based on
+This repo contains some folders with their own Dockerfile (based on
 alpine) for <https://hub.docker.com>.
 
 ## markdownlint-cli
